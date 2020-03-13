@@ -72,8 +72,8 @@ npm install standard --save-dev
 ## 目录
 
 -  上手
-  - [安装](#install)
-  - [使用](#usage)
+  - [安装](#%E5%AE%89%E8%A3%85)
+  - [使用](#%E4%BD%BF%E7%94%A8)
   - [如果你聪明的话会这样做](#what-you-might-do-if-youre-clever)
 - FAQ
   - [为何要使用 JavaScript Standard 规范？](#why-should-i-use-javascript-standard-style)
@@ -97,7 +97,7 @@ npm install standard --save-dev
   - [如何参与到 `standard` 规范中来？](#how-do-i-contribute-to-standard)
 - [协议](#license)
 
-## install 安装
+## 安装
 
 使用本规范最便捷的方式是全局安装，运行：
 
