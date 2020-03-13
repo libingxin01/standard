@@ -97,7 +97,7 @@ npm install standard --save-dev
   - [如何参与到 `standard` 规范中来？](#how-do-i-contribute-to-standard)
 - [协议](#license)
 
-## 安装
+## install 安装
 
 使用本规范最便捷的方式是全局安装，运行：
 
@@ -113,7 +113,7 @@ $ npm install standard --save-dev
 
 *注意：运行以上命令的前提是已经安装了 [Node.js](http://nodejs.org) 和 [npm](https://npmjs.com) 。*
 
-## 使用
+## usage 使用
 
 安装完就可以开心使用了。最简单的使用场景是检查项目内所有的 JavaScript 文件：
 
