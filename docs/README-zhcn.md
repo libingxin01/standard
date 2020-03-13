@@ -90,7 +90,7 @@ npm install standard --save-dev
   - [我能使用其他 JavaScript 变种吗，例如 Flow？](#%E6%88%91%E8%83%BD%E4%BD%BF%E7%94%A8%E5%85%B6%E4%BB%96-javascript-%E5%8F%98%E7%A7%8D%E5%90%97%E4%BE%8B%E5%A6%82-flow)
   - [如何与 Mocha，Jasmine 和 QUnit 这些测试工具搭配工作?](#%E5%A6%82%E4%BD%95%E4%B8%8E-mochajasmine-%E5%92%8C-qunit-%E8%BF%99%E4%BA%9B%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7%E6%90%AD%E9%85%8D%E5%B7%A5%E4%BD%9C)
   - [Web Workers 有考虑过么？](#web-workers-%E6%9C%89%E8%80%83%E8%99%91%E8%BF%87%E4%B9%88)
-  - [Markdown 或者 HTML 文件中的代码能检查到吗？](#cmarkdown-%E6%88%96%E8%80%85-html-%E6%96%87%E4%BB%B6%E4%B8%AD%E7%9A%84%E4%BB%A3%E7%A0%81%E8%83%BD%E6%A3%80%E6%9F%A5%E5%88%B0%E5%90%97)
+  - [Markdown 或者 HTML 文件中的代码能检查到吗？](#markdown-%E6%88%96%E8%80%85-html-%E6%96%87%E4%BB%B6%E4%B8%AD%E7%9A%84%E4%BB%A3%E7%A0%81%E8%83%BD%E6%A3%80%E6%9F%A5%E5%88%B0%E5%90%97)
   - [有为 git 添加 `pre-commit` 钩子么？](#%E6%9C%89%E4%B8%BA-git-%E6%B7%BB%E5%8A%A0-pre-commit-%E9%92%A9%E5%AD%90%E4%B9%88)
   - [怎样使输出好看些，带颜色？](#%E6%80%8E%E6%A0%B7%E4%BD%BF%E8%BE%93%E5%87%BA%E5%A5%BD%E7%9C%8B%E4%BA%9B%E5%B8%A6%E9%A2%9C%E8%89%B2)
   - [有相关的 Node.js API 没？](#%E6%9C%89%E7%9B%B8%E5%85%B3%E7%9A%84-nodejs-api-%E6%B2%A1)
