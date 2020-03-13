@@ -97,7 +97,7 @@ npm install standard --save-dev
   - [如何参与到 `standard` 规范中来？](#how-do-i-contribute-to-standard)
 - [协议](#license)
 
-## 安装
+## install 安装
 
 使用本规范最便捷的方式是全局安装，运行：
 
